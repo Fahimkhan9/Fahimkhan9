@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Javascript
 - 📫 How to reach me: fahimalif077@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 [![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahimkhan9)](https://github.com/anuraghazra/github-readme-stats)
