@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ReactJS projects
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about Javascript
-- 📫 How to reach me: fahimalif077@gmail.com
+- 📫 How to reach me: fahimalif077@gmail.com or fahimalifportfolio.netlify.app
 - 😄 Pronouns: he/him
 
 [![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahimkhan9)](https://github.com/anuraghazra/github-readme-stats)
