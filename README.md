@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on [tekie](https://www.tekie.in/)
 - 🌱 I’m currently learning GraphQL,Vuejs
 - 👯 I’m looking to collaborate on ReactJS projects
-- 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about Javascript
 - 📫 How to reach me: fahimalif077@gmail.com or [fahimalifportfolio.netlify.app](https://fahimalifportfolio.netlify.app/)
 - 😄 Pronouns: he/him
