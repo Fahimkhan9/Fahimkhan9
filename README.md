@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on [tekie](https://www.tekie.in/)
+
 - 🌱 I’m currently learning GraphQL,Vuejs
 - 👯 I’m looking to collaborate on ReactJS projects
 - 💬 Ask me about Javascript
