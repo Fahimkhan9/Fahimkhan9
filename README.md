@@ -6,10 +6,10 @@
 
 
 
-- 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on ReactJS projects
+- 🌱 I’m currently learning NextJS.
+- 👯 I’m looking to collaborate on MERN projects
 - 💬 Ask me about Javascript
 - 📫 How to reach me: fahimalif077@gmail.com or [fahimalifportfolio.netlify.app](https://fahimalifportfolio.netlify.app/)
 - 😄 Pronouns: he/him
 
-[![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahimkhan9)](https://github.com/Fahimkhan9)
+
