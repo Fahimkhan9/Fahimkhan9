@@ -3,7 +3,7 @@
 
 **Fahimkhan9/Fahimkhan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-###### I'm a Full stack Develope
+###### I'm a Full stack Developer
 A passionate developer committed to life-long learning. I develop web applications whether front-end or back-end. My core skills are based on Javascript and love to code in Javascript. I am available for any kind of job opportunity that suits my interests.
 
 
