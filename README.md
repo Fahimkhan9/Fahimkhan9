@@ -9,7 +9,7 @@ A passionate developer committed to life-long learning. I develop web applicatio
 
 - 👯 I’m looking to collaborate on MERN/NextJS projects
 - 💬 Ask me about Javascript
-- 📫 How to reach me: fahimalif077@gmail.com or [fahimalifportfolio.netlify.app](https://fahimalifportfolio.netlify.app/)
+- 📫 How to reach me: fahimalif077@gmail.com 
 - 😄 Pronouns: he/him
 
 
